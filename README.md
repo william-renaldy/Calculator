@@ -1,10 +1,12 @@
 # Calculator
 Developed by William Renaldy
+
 This is Developed based on python module kivy
 
 This app is also available in google play store, samsung galaxy store and amazon app store
 
-To download:
+To download
+
 Google play store : https://play.google.com/store/apps/details?id=com.william.william_calculator
 
 Samsung galaxy store : https://apps.samsung.com/appquery/appDetail.as?appId=com.william.william_calculator
